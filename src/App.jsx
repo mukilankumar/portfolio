@@ -3,7 +3,7 @@ import {  FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 import { FaLocationDot, FaLinkedin } from "react-icons/fa6"
 import { IoMail } from 'react-icons/io5';
 import { IoLogoWhatsapp } from "react-icons/io";
-import profile from '../src/assets/Profile.jpg';
+import profile from '../src/assets/profile.jpg';
 import qrcode from '../src/assets/qrcode.png';
 
 function App() {
